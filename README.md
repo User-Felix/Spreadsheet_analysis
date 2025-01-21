@@ -1,6 +1,11 @@
 ## Sales and Cancellations Report Generator
 
-This repository show a script in Python that create a charts about sales and cancellations from Google Sheet, then generate and export for PDF. 
+This repository show a script in Python that create a charts about sales and cancellations from Google Sheet, then generate and export for PDF.
+
+![cancellations](https://github.com/User-Felix/Spreadsheet_analysis/blob/main/cancellations_chart.png?raw=true)
+
+![Sales](https://github.com/User-Felix/Spreadsheet_analysis/blob/main/sales_chart.png?raw=true)
+
 
 **Key Features:**
 
@@ -35,9 +40,14 @@ If you using github codespace, well be necessary installing whit pip `openpyxl`.
 
 Follow the examples below:
 
-[Acces for anyone](https://github.com/User-Felix/Spreadsheet_analysis/blob/2664db92d75bebc8e4bb8b618a2783e5174f5aeb/projects_images/permission-00.png)
+Access for anyone
 
-[Acces for read and write](https://github.com/User-Felix/Spreadsheet_analysis/blob/2664db92d75bebc8e4bb8b618a2783e5174f5aeb/projects_images/permission.png)
+![Acces for anyone](https://github.com/User-Felix/Spreadsheet_analysis/blob/main/projects_images/permission-00.png?raw=true)
+
+
+Access for read and write
+
+![Acces for read and write](https://github.com/User-Felix/Spreadsheet_analysis/blob/main/projects_images/permission.png?raw=true)
 
 To access for the link, separate the URL:
 
